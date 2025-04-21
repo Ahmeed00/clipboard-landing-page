@@ -5,7 +5,7 @@ The project is built using only **HTML** and **CSS**, as part of my learning jou
 
 ## 🚀 Live Demo
 
-[Click here to view the project](#)
+[https://ahmeed00.github.io/clipboard-landing-page/](#)
 
 ## 📌 Features
 
