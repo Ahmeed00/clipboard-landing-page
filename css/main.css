@@ -29,7 +29,7 @@ a {
   }
 }
 header {
-  height: 100vh;
+  min-height: 100vh;
   width: 90vw;
   margin: 0 auto;
   display: flex;
@@ -240,6 +240,9 @@ header .button2 {
 }
 /* ! End Section Access-Clipboard */
 /* ! Start Section Supercharge */
+.supercharge {
+  margin-top: 200px;
+}
 .icons-in-supercharge {
   width: 80vw;
   margin: -50px auto;
